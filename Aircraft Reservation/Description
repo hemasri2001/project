@@ -1,1 +1,13 @@
+Aircraft is used to booking of tickets in both public and private aircraft 
+During the course of this project,
 
+Created a short url library with required methods.
+Implemented register method to take a long URL and return a shorter URL.
+Implemented hit count to track number of long URL lookups.
+
+Java
+Interfaces
+Unit testing
+L105 C.chandrasekhar16:21
+2 min call vachindhi
+rte-rndm-yiz
